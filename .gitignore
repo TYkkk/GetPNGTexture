@@ -1,0 +1,11 @@
+UnityPackageManager
+Library
+Temp
+Logs
+Build
+obj
+.vs
+GetPNGTexture/Assets/Test
+GetPNGTexture/Assets/Test.meta
+*.sln
+*.csproj
